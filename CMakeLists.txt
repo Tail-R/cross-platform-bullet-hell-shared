@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.26)
-project(cross_platform_bullet_hell_shared LANGUAGES CXX)
+project(bullet_hell_shared LANGUAGES CXX)
 
 file(GLOB_RECURSE SHARED_SRC CONFIGURE_DEPENDS
     library/*.cpp

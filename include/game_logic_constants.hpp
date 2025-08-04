@@ -34,7 +34,7 @@ namespace game_logic_constants {
         Enemy Bullet configurations
     */
     // Normal bullet
-    constexpr float ENEMY_NORMAL_BULLET_RADIUS = 5.0f;
+    constexpr float ENEMY_NORMAL_BULLET_RADIUS = 10.0f;
 
     // Big bullet
     constexpr float ENEMY_BIG_BULLET_RADIUS = 20.0f;
@@ -43,5 +43,5 @@ namespace game_logic_constants {
     constexpr float ENEMY_RICE_BULLET_RADIUS = 5.0f;
 
     // Wedge bullet
-    constexpr float ENEMY_WEDGE_BULLET_RADIUS = 5.0f;
+    constexpr float ENEMY_WEDGE_BULLET_RADIUS = 10.0f;
 }
